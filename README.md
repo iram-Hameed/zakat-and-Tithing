@@ -1,3 +1,4 @@
 # zakat-and-Tithing
-this is my first reprository
+This is my first reprository.
+<br>
 Author iram 
